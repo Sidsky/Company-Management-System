@@ -1,0 +1,12 @@
+startNewDay|01-Jan-2020
+
+hire|Bob|30
+hire|Carol|20
+
+takeLeave|Bob|02-Jan-2020|08-Jan-2020
+takeLeave|Carol|02-Jan-2020|08-Jan-2020
+takeLeave|Carol|02-Mar-2020|09-Mar-2020
+
+listLeaves|Bob
+listLeaves|Carol
+listLeaves
